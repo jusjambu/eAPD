@@ -1,14 +1,3 @@
-<table>
-<tr>
-<td>
-	<img src="https://i.ibb.co/mS9qHHS/logo-pemprov-dki.png" alt="" width="72" height="72">
-</td>
-<td>
-	<img src="https://i.ibb.co/rpZyCm3/logo.png" alt="" width="72" height="72">
-</td>
-</tr>
-</table>
-
 # eAPD
 <table>
 <tr>
@@ -52,6 +41,33 @@ Kemudahan akses data dan informasi, selain itu telah menerapkan design mobile fi
 
 ## Team
 
-[![Bobi](https://img.icons8.com/material-rounded/24/000000/user.png)](https://github.com/)  | [![Novi](https://img.icons8.com/material-rounded/24/000000/user.png)](https://github.com/) | [![Aldi Hadi](https://img.icons8.com/material-rounded/24/000000/user.png)](https://github.com/) | [![damkar](https://img.icons8.com/material-rounded/24/000000/user.png)](https://github.com/)
----|---
-[Bobi](https://github.com/bobi) | [Novi](https://github.com/novi) | [Aldi](https://github.com/aldi) | [Tim Damkar](https://github.com/bidCegahDamkar)
+<table>
+	<tr>
+		<td>
+			<img src="https://img.icons8.com/material-rounded/24/000000/user.png" alt="" width="72" height="72">
+		</td>
+		<td>
+			<img src="https://img.icons8.com/material-rounded/24/000000/user.png" alt="" width="72" height="72">
+		</td>
+		<td>
+			<img src="https://img.icons8.com/material-rounded/24/000000/user.png" alt="" width="72" height="72">
+		</td>
+		<td>
+			<img src="https://i.ibb.co/rpZyCm3/logo.png" alt="" width="72" height="72">
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h4> Bobi </h4>
+		</td>
+		<td>
+			<h4> Novi </h4>
+		</td>
+		<td>
+			<h4> Aldi </h4>
+		</td>
+		<td>
+			<h4> Tim Damkar </h4>
+		</td>
+	</tr>
+</table>
