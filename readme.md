@@ -1,4 +1,14 @@
-# ![eAPD](https://i.ibb.co/rpZyCm3/logo.png)
+<table>
+<tr>
+<td>
+	<img src="https://i.ibb.co/mS9qHHS/logo-pemprov-dki.png" alt="" width="72" height="72">
+</td>
+<td>
+	<img src="https://i.ibb.co/rpZyCm3/logo.png" alt="" width="72" height="72">
+</td>
+</tr>
+</table>
+
 # eAPD
 <table>
 <tr>
@@ -31,8 +41,7 @@ Kemudahan akses data dan informasi, selain itu telah menerapkan design mobile fi
 - [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
 - [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
 
-<img class="mb-4" src="https://i.ibb.co/mS9qHHS/logo-pemprov-dki.png" alt="" width="72" height="72">
-<img class="mb-4" src="https://i.ibb.co/rpZyCm3/logo.png" alt="" width="72" height="72">
+
 ## To-do
 - melengkapi data master dan petugas.
 - create front-end.
