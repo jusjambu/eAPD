@@ -44,13 +44,13 @@ Kemudahan akses data dan informasi, selain itu telah menerapkan design mobile fi
 <table>
 	<tr>
 		<td>
-			<img src="https://img.icons8.com/material-rounded/24/000000/user.png" alt="" width="72" height="72">
+			<img src="https://img.icons8.com/color/96/000000/user-male-circle--v1.png" alt="" width="72" height="72">
 		</td>
 		<td>
-			<img src="https://img.icons8.com/material-rounded/24/000000/user.png" alt="" width="72" height="72">
+			<img src="https://img.icons8.com/color/96/000000/user-female-circle--v1.png" alt="" width="72" height="72">
 		</td>
 		<td>
-			<img src="https://img.icons8.com/material-rounded/24/000000/user.png" alt="" width="72" height="72">
+			<img src="https://img.icons8.com/color/96/000000/user-male-circle--v1.png" alt="" width="72" height="72">
 		</td>
 		<td>
 			<img src="https://i.ibb.co/rpZyCm3/logo.png" alt="" width="72" height="72">
